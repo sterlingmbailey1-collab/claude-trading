@@ -58,4 +58,4 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
-- **AMD**: likely home for the NVDA proceeds (direct Nvidia alternative; paired with Google's new TPU).
+- **AMD**: home for the NVDA proceeds. Relative strength while chips fall (+1.4% pre-market 11-12 vs SMH -3.2%), William Blair upgrade on data-center strength, direct Nvidia alternative. Up ~23% in 3 days, so buy in two halves: first half at the 10:15 scan after the NVDA sale fills, second half at 12:05 if it holds. Exit: below the first-half price minus 10%.

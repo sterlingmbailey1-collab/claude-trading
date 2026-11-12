@@ -15,7 +15,7 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 | [[QQQ]] | 0.045568 | $658.36 | 2026-11-06 | Core holding, no fixed exit |
 | [[AVGO]] | 0.205217 | $343.39 | 2026-11-09 / 11-11 | Sell if the Google TPU / AI-spending story breaks or the stock loses Monday's gains |
 | [[ONTO]] | 0.348189 | $201.04 | 2026-11-10 | Sell below $201 (break-even) |
-| [[NVDA]] | 0.452719 | $176.71 | 2026-11-11 | **Exit triggered** (below $163 after hours; board reportedly moving to remove the CEO). Selling at the 2026-11-12 open |
+| [[NVDA]] | 0.452719 | $176.71 | 2026-11-11 | **Exit triggered** (pre-market $158; board met overnight on removing the CEO, no decision yet; several downgrades). Market sell queued 11-12 08:37 for the open |
 
 ## Trades
 | Date (ET) | Action | Ticker | Amount | Price | Reason | Result |
