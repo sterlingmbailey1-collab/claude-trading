@@ -59,4 +59,4 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
-- **AMD** (held, first half): bought $34 at $559.80 on 11-12. Second half (~$34) at the 12:05 scan if AMD is still above about $545 and still outperforming SMH. Exit below $504.
+- **AMD** (held, full position): $68.36 at an average $571.37 after both halves on 11-12. Exit below $514.
