@@ -3,17 +3,17 @@ ticker: U
 name: "Unity Software"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 49.32
-market_cap: $22.3B
+last_seen: 2026-11-12
+scan_days: 2
+last: 50.36
+market_cap: $22.0B
 tags: [trading/ticker]
 ---
 # U
 <!-- auto:start -->
-**Unity Software** · STOCK · Last 49.32 · Mkt cap $22.3B
+**Unity Software** · STOCK · Last 50.36 · Mkt cap $22.0B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (27 buy / 5 hold / 0 sell)
@@ -28,6 +28,7 @@ Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[High IV Premium]], [[Strong Uptrend]], [[Weekly Trend Leaders]] | bullish, neutral | 50.36 | +1.4% |
 | [[2026-11-11]] | [[High IV Premium]], [[Strong Uptrend]], [[Weekly Trend Leaders]], [[Wheel Candidates]] | bullish, neutral | 49.32 | -0.7% |
 <!-- auto:end -->
 ## My notes

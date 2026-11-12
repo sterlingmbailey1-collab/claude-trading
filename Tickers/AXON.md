@@ -3,21 +3,22 @@ ticker: AXON
 name: "Axon"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 315.12
-market_cap: $24.6B
+last_seen: 2026-11-12
+scan_days: 2
+last: 307.11
+market_cap: $25.7B
 tags: [trading/ticker]
 ---
 # AXON
 <!-- auto:start -->
-**Axon** · STOCK · Last 315.12 · Mkt cap $24.6B
+**Axon** · STOCK · Last 307.11 · Mkt cap $25.7B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Oversold Bounce]] | bullish | 307.11 | -2.6% |
 | [[2026-11-11]] | [[High IV Premium]], [[Oversold Bounce]] | bullish, neutral | 315.12 | -0.1% |
 <!-- auto:end -->
 ## My notes

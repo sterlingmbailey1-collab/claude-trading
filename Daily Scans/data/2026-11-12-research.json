@@ -1,0 +1,102 @@
+{
+ "PBR": {
+  "Analyst consensus": "Buy (13 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$22.98 / $26.00 / $17.40 (+27% vs $18.11)",
+  "Sector": "Energy Minerals / Integrated Oil",
+  "P/E": "4.2",
+  "52-week range": "$11.43\u2013$26.39",
+  "Dividend yield": "6.62%",
+  "Earnings this week": "no",
+  "Note": "Down ~31% from Oct 23 52-wk high; low P/E; next pay date Dec 1"
+ },
+ "HALO": {
+  "Analyst consensus": "Buy (6 buy / 4 hold / 1 sell)",
+  "Price target (avg / high / low)": "$119.89 / $149.00 / $79.00 (+19% vs $100.67)",
+  "Sector": "Health Technology / Biotechnology",
+  "P/E": "25.9",
+  "52-week range": "$61.23\u2013$134.00",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "~25% below Oct 30 52-wk high"
+ },
+ "NVDA": {
+  "Analyst consensus": "Buy (59 buy / 13 hold / 1 sell)",
+  "Price target (avg / high / low)": "$295.89 / $710.29 / $180.00 (+78% vs $166.04)",
+  "Sector": "Electronic Technology / Semiconductors",
+  "P/E": "22.0",
+  "52-week range": "$148.80\u2013$243.37",
+  "Dividend yield": "0.30%",
+  "Earnings this week": "2026-11-17",
+  "Note": "Set a new 52-wk low today ($148.80) intraday before rebounding; earnings Nov 17"
+ },
+ "SMCI": {
+  "Analyst consensus": "Hold (4 buy / 13 hold / 4 sell)",
+  "Price target (avg / high / low)": "$43.60 / $65.00 / $18.00 (+62% vs $26.98)",
+  "Sector": "Electronic Technology / Computer Hardware",
+  "P/E": "6.4",
+  "52-week range": "$19.48\u2013$51.40",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Gapped up then reversed \u221211% on 2.7x volume"
+ },
+ "AESI": {
+  "Analyst consensus": "Buy (8 buy / 6 hold / 1 sell)",
+  "Price target (avg / high / low)": "$15.14 / $21.00 / $7.00 (+175% vs $5.50)",
+  "Sector": "Industrial Services / Oilfield Services",
+  "P/E": "-5.0 (negative)",
+  "52-week range": "$5.08\u2013$20.13",
+  "Dividend yield": "7.96% (last ex-div Aug 2025)",
+  "Earnings this week": "no",
+  "Note": "Near 52-wk low (Nov 10); negative P/E"
+ },
+ "PLBL": {
+  "Analyst consensus": "n/a (no analyst coverage)",
+  "Price target (avg / high / low)": "n/a",
+  "Sector": "Retail Trade / Electronics & Appliance Stores",
+  "P/E": "-96.2 (negative)",
+  "52-week range": "$5.10\u2013$11.75",
+  "Dividend yield": "n/a",
+  "Earnings this week": "2026-11-13",
+  "Note": "No analyst coverage; tiny 6.4M float, +29% today; earnings Nov 13; negative P/E"
+ },
+ "ALNY": {
+  "Analyst consensus": "Buy (21 buy / 10 hold / 0 sell)",
+  "Price target (avg / high / low)": "$298.00 / $455.00 / $180.00 (+90% vs $156.61)",
+  "Sector": "Health Technology / Pharmaceuticals",
+  "P/E": "8.1",
+  "52-week range": "$149.18\u2013$479.79",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Near 52-wk low (Nov 10); ~67% below Dec 2025 high"
+ },
+ "FSLR": {
+  "Analyst consensus": "Buy (30 buy / 9 hold / 1 sell)",
+  "Price target (avg / high / low)": "$255.04 / $328.00 / $161.00 (+48% vs $172.30)",
+  "Sector": "Electronic Technology / Semiconductors (solar)",
+  "P/E": "10.3",
+  "52-week range": "$165.86\u2013$320.95",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Within 4% of 52-wk low (Oct 26)"
+ },
+ "ONON": {
+  "Analyst consensus": "Buy (28 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$44.22 / $65.08 / $20.03 (+34% vs $33.10)",
+  "Sector": "Consumer Non-Durables / Apparel & Footwear",
+  "P/E": "21.0",
+  "52-week range": "$26.37\u2013$51.08",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "\u22124.6% today"
+ },
+ "OTIS": {
+  "Analyst consensus": "Buy (7 buy / 6 hold / 1 sell)",
+  "Price target (avg / high / low)": "$85.73 / $95.00 / $73.00 (+11% vs $77.16)",
+  "Sector": "Industrial Services / Engineering & Construction",
+  "P/E": "19.2",
+  "52-week range": "$63.58\u2013$94.57",
+  "Dividend yield": "2.22%",
+  "Earnings this week": "no",
+  "Note": "Ex-dividend Nov 13 ($0.44)"
+ }
+}

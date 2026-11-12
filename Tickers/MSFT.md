@@ -3,17 +3,17 @@ ticker: MSFT
 name: "Microsoft"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 520.9
-market_cap: $4.0T
+last_seen: 2026-11-12
+scan_days: 2
+last: 523.11
+market_cap: $3.9T
 tags: [trading/ticker]
 ---
 # MSFT
 <!-- auto:start -->
-**Microsoft** · STOCK · Last 520.9 · Mkt cap $4.0T
+**Microsoft** · STOCK · Last 523.11 · Mkt cap $3.9T
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (55 buy / 4 hold / 0 sell)
@@ -28,6 +28,7 @@ Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[High-Margin Leaders]], [[Weekly Trend Leaders]] | bullish | 523.11 | +0.4% |
 | [[2026-11-11]] | [[Heavy Call Buying]], [[Heavy Put Buying]], [[High-Margin Leaders]], [[Weekly Trend Leaders]] | bearish, bullish | 520.9 | -0.0% |
 <!-- auto:end -->
 ## My notes

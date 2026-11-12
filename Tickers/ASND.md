@@ -3,21 +3,22 @@ ticker: ASND
 name: "Ascendis Pharma A/S"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 263.99
-market_cap: $16.9B
+last_seen: 2026-11-12
+scan_days: 2
+last: 267.07
+market_cap: $17.0B
 tags: [trading/ticker]
 ---
 # ASND
 <!-- auto:start -->
-**Ascendis Pharma A/S** · STOCK · Last 263.99 · Mkt cap $16.9B
+**Ascendis Pharma A/S** · STOCK · Last 267.07 · Mkt cap $17.0B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Earnings This Week]], [[High-Margin Leaders]] | bullish, event | 267.07 | +3.0% |
 | [[2026-11-11]] | [[High-Margin Leaders]] | bullish | 263.99 | +1.8% |
 <!-- auto:end -->
 ## My notes

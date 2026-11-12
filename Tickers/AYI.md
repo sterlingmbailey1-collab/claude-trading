@@ -3,21 +3,22 @@ ticker: AYI
 name: "Acuity"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 333.75
-market_cap: $9.9B
+last_seen: 2026-11-12
+scan_days: 2
+last: 327.45
+market_cap: $10.0B
 tags: [trading/ticker]
 ---
 # AYI
 <!-- auto:start -->
-**Acuity** · STOCK · Last 333.75 · Mkt cap $9.9B
+**Acuity** · STOCK · Last 327.45 · Mkt cap $10.0B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Quality Value]] | bullish | 327.45 | -1.9% |
 | [[2026-11-11]] | [[Quality Value]] | bullish | 333.75 | +0.0% |
 <!-- auto:end -->
 ## My notes

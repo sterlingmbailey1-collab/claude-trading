@@ -1,0 +1,23 @@
+---
+ticker: TISI
+name: "Team"
+type: STOCK
+first_seen: 2026-11-12
+last_seen: 2026-11-12
+scan_days: 1
+last: 23.34
+market_cap: $91.3M
+tags: [trading/ticker]
+---
+# TISI
+<!-- auto:start -->
+**Team** · STOCK · Last 23.34 · Mkt cap $91.3M
+
+Hit scans on 1 day(s), first 2026-11-12, latest 2026-11-12.
+
+## Scan history
+| Date | Scans | Bias | Last | % Chg |
+|---|---|---|---|---|
+| [[2026-11-12]] | [[Low-Float Squeeze]] | bullish | 23.34 | +17.2% |
+<!-- auto:end -->
+## My notes

@@ -32,3 +32,4 @@ Earnings moves are binary. Implied volatility usually collapses right after the 
 
 ## Log
 - 2026-11-11: created, 319 matches at creation.
+- 2026-11-12: re-sorted by market cap (largest first). Robinhood returns at most 200 rows, and the old earnings-date sort was cutting off the current day's reporters. For a full list, use `get_earnings_calendar`.

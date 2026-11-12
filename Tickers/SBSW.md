@@ -3,21 +3,22 @@ ticker: SBSW
 name: "Sibanye-Stillwater"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 9.205
-market_cap: $6.7B
+last_seen: 2026-11-12
+scan_days: 2
+last: 8.9
+market_cap: $6.5B
 tags: [trading/ticker]
 ---
 # SBSW
 <!-- auto:start -->
-**Sibanye-Stillwater** · STOCK · Last 9.205 · Mkt cap $6.7B
+**Sibanye-Stillwater** · STOCK · Last 8.9 · Mkt cap $6.5B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Quality Value]] | bullish | 8.9 | -3.3% |
 | [[2026-11-11]] | [[Quality Value]] | bullish | 9.205 | +0.1% |
 <!-- auto:end -->
 ## My notes

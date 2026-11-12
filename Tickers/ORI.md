@@ -3,21 +3,22 @@ ticker: ORI
 name: "Old Republic"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 39.96
-market_cap: $9.7B
+last_seen: 2026-11-12
+scan_days: 2
+last: 40.04
+market_cap: $9.6B
 tags: [trading/ticker]
 ---
 # ORI
 <!-- auto:start -->
-**Old Republic** · STOCK · Last 39.96 · Mkt cap $9.7B
+**Old Republic** · STOCK · Last 40.04 · Mkt cap $9.6B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Quality Value]] | bullish | 40.04 | +0.2% |
 | [[2026-11-11]] | [[Quality Value]] | bullish | 39.96 | +0.0% |
 <!-- auto:end -->
 ## My notes

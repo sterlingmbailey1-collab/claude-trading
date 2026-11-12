@@ -3,21 +3,22 @@ ticker: SU
 name: "Suncor"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 68.97
-market_cap: $78.4B
+last_seen: 2026-11-12
+scan_days: 2
+last: 69.29
+market_cap: $79.7B
 tags: [trading/ticker]
 ---
 # SU
 <!-- auto:start -->
-**Suncor** · STOCK · Last 68.97 · Mkt cap $78.4B
+**Suncor** · STOCK · Last 69.29 · Mkt cap $79.7B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Quality Value]] | bullish | 69.29 | +0.5% |
 | [[2026-11-11]] | [[Quality Value]] | bullish | 68.97 | +0.0% |
 <!-- auto:end -->
 ## My notes

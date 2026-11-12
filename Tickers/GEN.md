@@ -3,17 +3,17 @@ ticker: GEN
 name: "Gen Digital"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 30.79
-market_cap: $17.8B
+last_seen: 2026-11-12
+scan_days: 2
+last: 29.69
+market_cap: $18.2B
 tags: [trading/ticker]
 ---
 # GEN
 <!-- auto:start -->
-**Gen Digital** · STOCK · Last 30.79 · Mkt cap $17.8B
+**Gen Digital** · STOCK · Last 29.69 · Mkt cap $18.2B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Hold (6 buy / 7 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[High-Margin Leaders]], [[Quality Value]] | bullish | 29.69 | -3.1% |
 | [[2026-11-11]] | [[High-Margin Leaders]], [[Quality Value]], [[Strong Uptrend]], [[Wheel Candidates]] | bullish, neutral | 30.79 | +0.5% |
 <!-- auto:end -->
 ## My notes

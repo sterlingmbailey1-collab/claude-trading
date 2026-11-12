@@ -3,17 +3,17 @@ ticker: FIS
 name: "Fidelity National Information"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 30.21
-market_cap: $14.6B
+last_seen: 2026-11-12
+scan_days: 2
+last: 28.45
+market_cap: $15.6B
 tags: [trading/ticker]
 ---
 # FIS
 <!-- auto:start -->
-**Fidelity National Information** · STOCK · Last 30.21 · Mkt cap $14.6B
+**Fidelity National Information** · STOCK · Last 28.45 · Mkt cap $15.6B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Hold (11 buy / 22 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-12]] | [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 28.45 | -5.8% |
 | [[2026-11-11]] | [[Oversold Bounce]], [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 30.21 | +0.0% |
 <!-- auto:end -->
 ## My notes
