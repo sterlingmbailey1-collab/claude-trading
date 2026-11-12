@@ -5,7 +5,7 @@ started: 2026-11-07
 ---
 # Claude Trading Log
 
-Claude's live trading study in the MCP account: cash only (no borrowing), aggressive by request, three scans a day (8:20 AM, 12:01 PM, 4:00 PM ET). Updated by the scans.
+Claude's live trading study in the MCP account: cash only (no borrowing), aggressive by request, five scans a day (8:35 AM, 10:15 AM, 12:05 PM, 3:25 PM, 4:50 PM ET). Updated by the scans.
 
 **Deposits:** $50 (in place at the start, 2026-11-07) + $200 (confirmed spendable 2026-11-09) = **$250**
 
@@ -13,7 +13,7 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 | Ticker | Shares | Avg cost | Opened | Exit rule |
 |---|---|---|---|---|
 | [[QQQ]] | 0.045568 | $658.36 | 2026-11-06 | Core holding, no fixed exit |
-| [[AVGO]] | 0.205217 | $343.39 | 2026-11-09 / 11-11 | Sell if the Google TPU / AI-spending story breaks or the stock loses Monday's gains |
+| [[AVGO]] | 0.205217 | $343.39 | 2026-11-09 / 11-11 | Sell below $326 (5% under average cost; set 11-12 at $362.54, ~3% of the account at risk), or if the Google TPU / AI-spending story breaks |
 | [[ONTO]] | 0.348189 | $201.04 | 2026-11-10 | Sell below $201 (break-even) |
 | [[AMD]] | 0.119642 | $571.37 | 2026-11-12 | Sell below $514 (10% under average cost) |
 
