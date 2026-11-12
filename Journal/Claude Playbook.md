@@ -28,7 +28,7 @@ Benchmarks start from the 2026-11-06 closes: SPY $735.29, SMH $463.96.
 Any scan adds a lesson whenever something deserves one: a winning or losing trade, a trade skipped that should have been taken (or the reverse), a rule that helped or failed, or a market surprise. Each lesson is one line, with the date and the trade or event behind it. Mention a new lesson in that scan's report. Update an old lesson instead of adding a duplicate, and mark one *retired* if later evidence shows it was wrong. The user likes this section, so keep it honest and specific.
 
 1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution. *(NVDA: bought 11-11 at $176.71, CEO resigned the next morning, sold at $151.00 for −14.5%)*
-2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals. *(SMH → AVGO worked; NVDA dip-buy failed)*
+2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals. *(SMH → AVGO worked; NVDA dip-buy failed; on 11-12, the day NVDA's CEO resigned, AMD rose 5.9% and AVGO 5.6% while SMH fell 1.0%)*
 3. Never loosen an entry rule just to get cash invested.
 4. After a 4%+ jump, buy in two halves at separate scans. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high)*
 5. Fractional shares can't use stop orders or trade after hours; prefer whole shares (which can carry a real stop order) for positions with event risk when affordable.
@@ -50,13 +50,20 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 ## Catalyst calendar
 | Date | Event | Why it matters |
 |---|---|---|
-| 2026-11-12 pm | AMAT and CSCO earnings | AMAT reads through to ONTO and chip equipment |
+| 2026-11-13 8:30 AM | October PPI | Hot inflation data has been lifting rate-hike odds (10-year at 5.11%) |
+| 2026-11-13 4:50 PM | First Friday weekly review | Weekly review in the log; first Signal Tracker entry |
 | 2026-11-17 pm | NVDA earnings | Moves every AI-chip holding; extra check at 6:15 PM |
+| Before 11-26 | Huang testifies to Congress (Bloomberg) | More NVDA headlines; so far the rivals (AMD, AVGO) have gained |
 | Before 11-26 | Anthropic IPO (reported) | May pull money from AI stocks around the listing; not tradable here |
 | 2026-11-26 | Thanksgiving: market closed | Scans will find the market shut |
 | 2026-11-27 | Early close at 1:00 PM | Extra pre-close check at 12:25 PM; the 3:25 PM scan runs after the close |
+| 2026-12-08/09 | FOMC | Futures price a December hike |
 | 2026-12-09 pm | AVGO earnings | Largest holding's report |
+| 2026-12-10 | November CPI | |
 
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
 - **AMD** (held, full position): $68.36 at an average $571.37 after both halves on 11-12. Exit below $514.
+- **CBRS** (Cerebras): AI-inference chip rival to NVDA. Q3 revenue beat, FY guide raised to $940-960M vs $887M expected, Q4 guide $310-330M vs $275M, new Microsoft deal. +15% after hours ($112.81). Still loss-making, and down ~half since its May IPO. Earnings-drift + rotation candidate: buy in halves only if it holds the gap at 10:15. Would need a trim to fund it (no cash).
+- **CSCO**: beat and raise (Q1 EPS $1.40 vs $1.33; FY27 EPS guide raised to $5.47-5.53; hyperscaler AI revenue seen at $9B). Only about +1% after hours, so a quieter earnings-drift candidate and less chip-heavy than the rest of the account.
+- **PBR**: tops the vault's confluence list (Oversold Bounce + RSI(2) Pullback; energy the only sector up). Hormuz mine strikes keep a premium on oil, but Q3 missed on 11-11. Confluence signals aren't proven yet (pattern rule), so watch only.
