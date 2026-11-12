@@ -20,13 +20,13 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 ## Trades
 | Date (ET) | Action | Ticker | Amount | Price | Reason | Result |
 |---|---|---|---|---|---|---|
-| 2026-11-06 open | Buy | [[QQQ]] | $30.00 | $658.35 | Starting position | open |
-| 2026-11-06 open | Buy | [[SMH]] | $20.00 | $473.41 | Starting position | closed 11-09 |
-| 2026-11-09 12:03 | Sell | [[SMH]] | 0.042246 sh | $484.46 | Nvidia (~1/5 of SMH) hit by the CEO scandal; money rotating to its rivals | **+$0.47 (+2.3%)** |
-| 2026-11-09 12:03 | Buy | [[AVGO]] | $20.47 | $318.60 | Co-designs Google's new TPUs; rival benefiting from the Nvidia rotation | open |
-| 2026-11-10 09:30 | Buy | [[ONTO]] | $70.00 | $201.04 | Beat and raise (EPS $2.44 vs $2.30; Q4 guide ~9% above estimates) | open |
-| 2026-11-11 12:02 | Buy | [[NVDA]] | $80.00 | $176.71 | Pre-earnings (11-17) bet after CoreWeave's strong results | exit triggered same evening |
-| 2026-11-11 12:02 | Buy | [[AVGO]] | $50.00 | $354.69 | Added to the strongest AI-chip name | open |
+| 2026-11-06 open | Buy | [[QQQ]] | $30.00 | $658.35 | [core] Starting position | open |
+| 2026-11-06 open | Buy | [[SMH]] | $20.00 | $473.41 | [core] Starting position | closed 11-09 |
+| 2026-11-09 12:03 | Sell | [[SMH]] | 0.042246 sh | $484.46 | [news rotation] Nvidia (~1/5 of SMH) hit by the CEO scandal; money rotating to its rivals | **+$0.47 (+2.3%)** |
+| 2026-11-09 12:03 | Buy | [[AVGO]] | $20.47 | $318.60 | [news rotation] Co-designs Google's new TPUs; rival benefiting from the Nvidia rotation | open |
+| 2026-11-10 09:30 | Buy | [[ONTO]] | $70.00 | $201.04 | [earnings drift] Beat and raise (EPS $2.44 vs $2.30; Q4 guide ~9% above estimates) | open |
+| 2026-11-11 12:02 | Buy | [[NVDA]] | $80.00 | $176.71 | [dip buy] Pre-earnings (11-17) bet after CoreWeave's strong results | exit triggered same evening |
+| 2026-11-11 12:02 | Buy | [[AVGO]] | $50.00 | $354.69 | [momentum] Added to the strongest AI-chip name | open |
 
 ## Scoreboard (at the close)
 Benchmarks from the 2026-11-06 closes: SPY $735.29, SMH $463.96. Rules and goals: [[Claude Playbook]].

@@ -31,6 +31,12 @@ Benchmarks start from the 2026-11-06 closes: SPY $735.29, SMH $463.96.
 4. After a 4%+ jump, buy in two halves at separate scans. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high)*
 5. Fractional shares can't use stop orders or trade after hours; prefer whole shares (which can carry a real stop order) for positions with event risk when affordable.
 
+## Pattern tracking
+Goal: learn which signals actually work in this market, from the vault's daily scans and from my own trades, before trusting any of them.
+- **Scan follow-through (Friday review):** for each trading day of the past week, take the top 10 names in that day's Daily Scans confluence list and record their 5-trading-day return against SPY over the same days (get_equity_historicals, 10 symbols per call) in `Journal/Signal Tracker.md`, grouped by the setup scan that qualified them (Oversold Bounce, RSI(2) Pullback, Momentum Breakout, ...). Also note how scan streaks behaved (names on Strong Uptrend or Weekly Trend Leaders several days running).
+- **My own setups:** every trade in the log carries a setup tag ([news rotation], [earnings drift], [dip buy], [momentum], [core]). The Friday review totals results by tag.
+- **Rules for using it:** nothing counts until a setup has at least 20 observations across at least 4 weeks (around mid-December). Compare against SPY and SMH, not zero. Decide what to test before looking at the numbers, and treat one good week as noise. Then, and only then, favor setups with a proven edge and drop the ones without.
+
 ## Sources
 - **News:** Bigdata.com first (licensed outlets). Newsflash REST API via `curl -sS "https://newsflash.sh/api/events?q=...&min_sources=2&from=YYYY-MM-DD"`: the key is injected automatically (free tier, 1,000 requests a day); the Newsflash connector tool is still on the 50-a-day test tier. Echonews only as leads: its AI summaries are often wrong.
 - **Vault notes** from the user's own scans (~8:19 AM, ~11:53 AM, ~4:07 PM, ~4:42 PM with the confluence list, ~8:09 PM): useful for ideas; verify their news.
