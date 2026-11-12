@@ -1,0 +1,7 @@
+# personal account data stays off GitHub
+Account/
+# Obsidian per-device UI state (changes constantly)
+.obsidian/workspace*.json
+.obsidian/cache
+.DS_Store
+.trash/

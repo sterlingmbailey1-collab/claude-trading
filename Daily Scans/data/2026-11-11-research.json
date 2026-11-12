@@ -1,0 +1,102 @@
+{
+ "PBR": {
+  "Analyst consensus": "Buy (13 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$23.17 / $26.00 / $17.40 (+30% vs $17.76)",
+  "Sector": "Energy Minerals \u00b7 Integrated Oil",
+  "P/E": "4.6",
+  "52-week range": "$11.43 \u2013 $26.39",
+  "Dividend yield": "6.46%",
+  "Earnings this week": "no",
+  "Note": "Low P/E 4.6, high dividend yield 6.5%."
+ },
+ "HALO": {
+  "Analyst consensus": "Buy (6 buy / 4 hold / 1 sell)",
+  "Price target (avg / high / low)": "$119.89 / $149.00 / $79.00 (+18% vs $101.63)",
+  "Sector": "Health Technology \u00b7 Biotechnology",
+  "P/E": "26.2",
+  "52-week range": "$61.23 \u2013 $134.00",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "Fell from a 52-week high of $134 on Oct 30 to about $102."
+ },
+ "ONON": {
+  "Analyst consensus": "Buy (28 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$44.22 / $65.08 / $20.03 (+27% vs $34.69)",
+  "Sector": "Consumer Non-Durables \u00b7 Apparel/Footwear",
+  "P/E": "20.9",
+  "52-week range": "$26.37 \u2013 $51.08",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "Down ~32% from 52-week high."
+ },
+ "SNDK": {
+  "Analyst consensus": "Buy (28 buy / 6 hold / 0 sell)",
+  "Price target (avg / high / low)": "$2,168.80 / $3,600.00 / $1,300.00 (+124% vs $966.75)",
+  "Sector": "Electronic Technology \u00b7 Computer Peripherals",
+  "P/E": "6.9",
+  "52-week range": "$183.00 \u2013 $2,354.39",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "Down ~59% from 52-week high despite 28 buy ratings."
+ },
+ "FIS": {
+  "Analyst consensus": "Hold (11 buy / 22 hold / 1 sell)",
+  "Price target (avg / high / low)": "$34.57 / $50.00 / $25.00 (+14% vs $30.21)",
+  "Sector": "Technology Services \u00b7 Packaged Software",
+  "P/E": "4.2",
+  "52-week range": "$27.93 \u2013 $68.37",
+  "Dividend yield": "6.08%",
+  "Earnings this week": "no",
+  "Note": "Set a 52-week low on Nov 9 ($27.93); down ~56% from high. P/E 4.2, yield 6.1%."
+ },
+ "FSLR": {
+  "Analyst consensus": "Buy (30 buy / 9 hold / 1 sell)",
+  "Price target (avg / high / low)": "$255.04 / $328.00 / $161.00 (+44% vs $177.56)",
+  "Sector": "Electronic Technology \u00b7 Semiconductors (solar)",
+  "P/E": "10.5",
+  "52-week range": "$165.86 \u2013 $320.95",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "Near 52-week low ($165.86, Oct 26)."
+ },
+ "FTNT": {
+  "Analyst consensus": "Hold (9 buy / 32 hold / 6 sell)",
+  "Price target (avg / high / low)": "$146.81 / $190.00 / $110.00 (+15% vs $127.87)",
+  "Sector": "Technology Services \u00b7 IT Services",
+  "P/E": "40.2",
+  "52-week range": "$73.55 \u2013 $197.13",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "Down ~35% from Oct 13 high; analysts mostly Hold."
+ },
+ "OTIS": {
+  "Analyst consensus": "Buy (7 buy / 6 hold / 1 sell)",
+  "Price target (avg / high / low)": "$85.27 / $95.00 / $73.00 (+10% vs $77.51)",
+  "Sector": "Industrial Services \u00b7 Engineering & Construction",
+  "P/E": "19.4",
+  "52-week range": "$63.58 \u2013 $94.57",
+  "Dividend yield": "2.20%",
+  "Earnings this week": "no",
+  "Note": "Ex-dividend Nov 13 ($0.44)."
+ },
+ "NVDA": {
+  "Analyst consensus": "Buy (67 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$322.73 / $710.29 / $180.00 (+86% vs $173.73)",
+  "Sector": "Electronic Technology \u00b7 Semiconductors",
+  "P/E": "21.3",
+  "52-week range": "$164.27 \u2013 $243.37",
+  "Dividend yield": "0.31%",
+  "Earnings this week": "2026-11-17",
+  "Note": "Down ~7% after hours (161 vs 173.73 close) per Robinhood quotes; news feed reports earnings due Tue Nov 17."
+ },
+ "ALC": {
+  "Analyst consensus": "Buy (16 buy / 7 hold / 1 sell)",
+  "Price target (avg / high / low)": "$82.91 / $104.76 / $62.00 (+15% vs $72.40)",
+  "Sector": "Health Technology \u00b7 Medical Specialties",
+  "P/E": "54.0",
+  "52-week range": "$61.84 \u2013 $87.64",
+  "Dividend yield": "0.47%",
+  "Earnings this week": "no",
+  "Note": "High P/E 54."
+ }
+}
