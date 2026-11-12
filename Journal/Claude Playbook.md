@@ -25,6 +25,8 @@ Benchmarks start from the 2026-11-06 closes: SPY $735.29, SMH $463.96.
 - Every position has a written exit level in the log, and it gets acted on.
 
 ## Lessons
+Any scan adds a lesson whenever something deserves one: a winning or losing trade, a trade skipped that should have been taken (or the reverse), a rule that helped or failed, or a market surprise. Each lesson is one line, with the date and the trade or event behind it. Mention a new lesson in that scan's report. Update an old lesson instead of adding a duplicate, and mark one *retired* if later evidence shows it was wrong. The user likes this section, so keep it honest and specific.
+
 1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution. *(NVDA, 2026-11-11)*
 2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals. *(SMH → AVGO worked; NVDA dip-buy failed)*
 3. Never loosen an entry rule just to get cash invested.
