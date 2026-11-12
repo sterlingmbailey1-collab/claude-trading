@@ -27,11 +27,12 @@ Benchmarks start from the 2026-11-06 closes: SPY $735.29, SMH $463.96.
 ## Lessons
 Any scan adds a lesson whenever something deserves one: a winning or losing trade, a trade skipped that should have been taken (or the reverse), a rule that helped or failed, or a market surprise. Each lesson is one line, with the date and the trade or event behind it. Mention a new lesson in that scan's report. Update an old lesson instead of adding a duplicate, and mark one *retired* if later evidence shows it was wrong. The user likes this section, so keep it honest and specific.
 
-1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution. *(NVDA, 2026-11-11)*
+1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution. *(NVDA: bought 11-11 at $176.71, CEO resigned the next morning, sold at $151.00 for −14.5%)*
 2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals. *(SMH → AVGO worked; NVDA dip-buy failed)*
 3. Never loosen an entry rule just to get cash invested.
 4. After a 4%+ jump, buy in two halves at separate scans. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high)*
 5. Fractional shares can't use stop orders or trade after hours; prefer whole shares (which can carry a real stop order) for positions with event risk when affordable.
+6. A sell queued for the open after big overnight news fills at the most extreme print of the day. NVDA opened at $151.00 (the day's low was $148.80) and traded near $162 by 10:15. When the news is already out and not still worsening, let the 10:15 scan sell instead of queuing for the open. *(One example so far, 2026-11-12; revisit as more come in)*
 
 ## Pattern tracking
 Goal: learn which signals actually work in this market, from the vault's daily scans and from my own trades, before trusting any of them.
@@ -58,4 +59,4 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
-- **AMD**: home for the NVDA proceeds. Relative strength while chips fall (+1.4% pre-market 11-12 vs SMH -3.2%), William Blair upgrade on data-center strength, direct Nvidia alternative. Up ~23% in 3 days, so buy in two halves: first half at the 10:15 scan after the NVDA sale fills, second half at 12:05 if it holds. Exit: below the first-half price minus 10%.
+- **AMD** (held, first half): bought $34 at $559.80 on 11-12. Second half (~$34) at the 12:05 scan if AMD is still above about $545 and still outperforming SMH. Exit below $504.

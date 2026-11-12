@@ -15,7 +15,7 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 | [[QQQ]] | 0.045568 | $658.36 | 2026-11-06 | Core holding, no fixed exit |
 | [[AVGO]] | 0.205217 | $343.39 | 2026-11-09 / 11-11 | Sell if the Google TPU / AI-spending story breaks or the stock loses Monday's gains |
 | [[ONTO]] | 0.348189 | $201.04 | 2026-11-10 | Sell below $201 (break-even) |
-| [[NVDA]] | 0.452719 | $176.71 | 2026-11-11 | **Exit triggered** (pre-market $158; board met overnight on removing the CEO, no decision yet; several downgrades). Market sell queued 11-12 08:37 for the open |
+| [[AMD]] | 0.060735 | $559.80 | 2026-11-12 | Sell below $504 (−10%). Second half planned at the 12:05 scan if AMD holds |
 
 ## Trades
 | Date (ET) | Action | Ticker | Amount | Price | Reason | Result |
@@ -25,8 +25,10 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 | 2026-11-09 12:03 | Sell | [[SMH]] | 0.042246 sh | $484.46 | [news rotation] Nvidia (~1/5 of SMH) hit by the CEO scandal; money rotating to its rivals | **+$0.47 (+2.3%)** |
 | 2026-11-09 12:03 | Buy | [[AVGO]] | $20.47 | $318.60 | [news rotation] Co-designs Google's new TPUs; rival benefiting from the Nvidia rotation | open |
 | 2026-11-10 09:30 | Buy | [[ONTO]] | $70.00 | $201.04 | [earnings drift] Beat and raise (EPS $2.44 vs $2.30; Q4 guide ~9% above estimates) | open |
-| 2026-11-11 12:02 | Buy | [[NVDA]] | $80.00 | $176.71 | [dip buy] Pre-earnings (11-17) bet after CoreWeave's strong results | exit triggered same evening |
+| 2026-11-11 12:02 | Buy | [[NVDA]] | $80.00 | $176.71 | [dip buy] Pre-earnings (11-17) bet after CoreWeave's strong results | closed 11-12 |
 | 2026-11-11 12:02 | Buy | [[AVGO]] | $50.00 | $354.69 | [momentum] Added to the strongest AI-chip name | open |
+| 2026-11-12 09:30 | Sell | [[NVDA]] | 0.452719 sh | $151.00 | [dip buy] Exit rule hit; CEO Huang resigned at ~8:50 AM | **−$11.64 (−14.5%)** |
+| 2026-11-12 10:18 | Buy | [[AMD]] | $34.00 | $559.80 | [news rotation] First half; relative strength while chips fall, William Blair upgrade | open |
 
 ## Scoreboard (at the close)
 Benchmarks from the 2026-11-06 closes: SPY $735.29, SMH $463.96. Rules and goals: [[Claude Playbook]].
