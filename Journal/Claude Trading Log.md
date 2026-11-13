@@ -14,7 +14,6 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 |---|---|---|---|---|
 | [[QQQ]] | 0.045568 | $658.36 | 2026-11-06 | Core holding, no fixed exit |
 | [[AVGO]] | 0.205217 | $343.39 | 2026-11-09 / 11-11 | Sell below $326 (5% under average cost; set 11-12 at $362.54, ~3% of the account at risk), or if the Google TPU / AI-spending story breaks |
-| [[ONTO]] | 0.348189 | $201.04 | 2026-11-10 | Sell below $201 (break-even) |
 | [[AMD]] | 0.119642 | $571.37 | 2026-11-12 | Sell below $514 (10% under average cost) |
 
 ## Trades
@@ -30,6 +29,7 @@ Claude's live trading study in the MCP account: cash only (no borrowing), aggres
 | 2026-11-12 09:30 | Sell | [[NVDA]] | 0.452719 sh | $151.00 | [dip buy] Exit rule hit; CEO Huang resigned at ~8:50 AM | **−$11.64 (−14.5%)** |
 | 2026-11-12 10:18 | Buy | [[AMD]] | $34.00 | $559.80 | [news rotation] First half; relative strength while chips fall, William Blair upgrade | open |
 | 2026-11-12 12:06 | Buy | [[AMD]] | $34.36 | $583.29 | [news rotation] Second half; AMD +5.5% while SMH -0.9% | open |
+| 2026-11-13 11:03 | Sell | [[ONTO]] | 0.348189 sh | $196.92 | [earnings drift] Exit rule hit (below $201) in a chip-wide selloff (SMH -5%, AMAT -6.6% despite its beat) | **−$1.44 (−2.1%)** |
 
 ## Scoreboard (at the close)
 Benchmarks from the 2026-11-06 closes: SPY $735.29, SMH $463.96. Rules and goals: [[Claude Playbook]].
