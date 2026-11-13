@@ -31,9 +31,9 @@ Any scan adds a lesson whenever something deserves one: a winning or losing trad
 1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution. *(NVDA: bought 11-11 at $176.71, CEO resigned the next morning, sold at $151.00 for −14.5%)*
 2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals. *(SMH → AVGO worked; NVDA dip-buy failed; on 11-12, the day NVDA's CEO resigned, AMD rose 5.9% and AVGO 5.6% while SMH fell 1.0%)*
 3. Never loosen an entry rule just to get cash invested.
-4. After a 4%+ jump, buy in two halves at separate scans. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high)*
+4. After a 4%+ jump, buy in two halves at separate scans; if the stock is up 20%+ in a week, put the halves on separate days. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high; AMD's halves both went in on 11-12, at $559.80 and $583.29 after a ~30% week, and it fell 8.7% the next day)*
 5. Fractional shares can't use stop orders or trade after hours; prefer whole shares (which can carry a real stop order) for positions with event risk when affordable.
-6. A sell queued for the open after big overnight news fills at the most extreme print of the day. NVDA opened at $151.00 (the day's low was $148.80) and traded near $162 by 10:15. When the news is already out and not still worsening, let the 10:15 scan sell instead of queuing for the open. *(One example so far, 2026-11-12; revisit as more come in)*
+6. Exits that trigger in a flush tend to fill near the day's low. Never queue an exit for the open: the 10:15 scan acts on company-specific bad news. When a position breaks its exit only in step with its sector (falling no more than about 1.5x SMH's move that day, with no company news), judge the exit at the 3:25 scan instead of the first scan below the line. *(Two examples: NVDA sold at the 11-12 open at $151.00 and closed $166.19; ONTO sold 11-13 at 11:03 at $196.92, in a −5% SMH flush, and closed $203.53. Revisit as more come in)*
 
 ## Pattern tracking
 Goal: learn which signals actually work in this market, from the vault's daily scans and from my own trades, before trusting any of them.
@@ -51,20 +51,21 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 ## Catalyst calendar
 | Date | Event | Why it matters |
 |---|---|---|
-| 2026-11-13 8:30 AM | October PPI | Hot inflation data has been lifting rate-hike odds (10-year at 5.11%) |
-| 2026-11-13 4:50 PM | First Friday weekly review | Weekly review in the log; first Signal Tracker entry |
-| 2026-11-17 pm | NVDA earnings | Moves every AI-chip holding; extra check at 6:15 PM |
-| Before 11-26 | Huang testifies to Congress (Bloomberg) | More NVDA headlines; so far the rivals (AMD, AVGO) have gained |
-| Before 11-26 | Anthropic IPO (reported) | May pull money from AI stocks around the listing; not tradable here |
+| 2026-11-16 | Baidu earnings | China AI read-through |
+| 2026-11-17 pm | NVDA earnings (first under interim CEO Kress) | Moves every AI-chip holding; extra check at 6:15 PM |
+| 2026-11-18 | FOMC minutes; PANW earnings | Markets price ~50 bp of hikes over the next two meetings; 10-year at 5.15% |
+| ~2026-11-18/19 | Anthropic IPO prices (~Wed) and starts trading (~Thu): $64B raise, ~6x oversubscribed | Not tradable here (no Anthropic stock). AMD and AVGO are in the $26B side placement; the raise could pull money from AI stocks |
+| 2026-11-20 | Walmart earnings | Consumer read |
 | 2026-11-26 | Thanksgiving: market closed | Scans will find the market shut |
 | 2026-11-27 | Early close at 1:00 PM | Extra pre-close check at 12:25 PM; the 3:25 PM scan runs after the close |
+| 2026-12-03 | Huang asked to testify to the Senate Banking Committee | More NVDA headlines |
 | 2026-12-08/09 | FOMC | Futures price a December hike |
 | 2026-12-09 pm | AVGO earnings | Largest holding's report |
 | 2026-12-10 | November CPI | |
 
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
-- **AMD** (held, full position): $68.36 at an average $571.37 after both halves on 11-12. Exit below $514.
-- **CBRS** (Cerebras): failed the 11-13 entry test (held only ~40% of the after-hours gap at the 11:02 scan), then rose to +9.6% by midday on a −4% chip day. New test, set in advance: buy half at Monday's 10:15 scan if it's above $103 and beating SMH on the day; exit below $97.75 (the 11-12 close, i.e. the gap filled). Background: AI-inference chip rival to NVDA. Q3 revenue beat, FY guide raised to $940-960M vs $887M expected, Q4 guide $310-330M vs $275M, new Microsoft deal. +15% after hours ($112.81). Still loss-making, and down ~half since its May IPO. Earnings-drift + rotation candidate: buy in halves only if it holds the gap at 10:15. Would need a trim to fund it (no cash).
-- **CSCO**: fell 5.6% on 11-13 despite the beat; dropped from consideration unless it recovers. Background: beat and raise (Q1 EPS $1.40 vs $1.33; FY27 EPS guide raised to $5.47-5.53; hyperscaler AI revenue seen at $9B). Only about +1% after hours, so a quieter earnings-drift candidate and less chip-heavy than the rest of the account.
-- **PBR**: tops the vault's confluence list (Oversold Bounce + RSI(2) Pullback; energy the only sector up). Hormuz mine strikes keep a premium on oil, but Q3 missed on 11-11. Confluence signals aren't proven yet (pattern rule), so watch only.
+- **CBRS** (Cerebras): Monday test set on 11-13. Buy half at the 10:15 scan if it's above $103 and beating SMH on the day; exit below $97.75 (the 11-12 close, i.e. the earnings gap filled). It closed 11-13 at $108.59 (+11.1%) on a −3% chip day. Background: beat-and-raise on 11-12, new Microsoft deal, still unprofitable, down about half since its May IPO.
+- **PBR** (Petrobras): top of the vault's confluence list on 11-11 and 11-12, and up 2.9% / 1.3% since those lists vs SPY −0.7% / −0.4%. Confluence isn't proven yet (pattern rule), so watch only. The idea is diversification away from chips if the setup keeps working.
+- **AMD** (held): $534.09 at the close (−6.5% on cost), $527 after hours. Exit below $514, judged per lesson 6.
+- **NVDA** (not held): earnings Tuesday. No buy while the crisis is unresolved (lesson 1: DOJ probes, Senate testimony Dec 3).

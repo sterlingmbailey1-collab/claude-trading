@@ -42,6 +42,7 @@ Benchmarks from the 2026-11-06 closes: SPY $735.29, SMH $463.96. Rules and goals
 | 2026-11-10 | $250.86 | +0.3% (on $250) | +2.6% | +2.0% | +4.2% | $200 added; bought ONTO; hot CPI |
 | 2026-11-11 | $256.07 | +2.4% | +4.7% | +3.3% | +9.3% | Fully invested; NVDA fell ~9% after hours on CEO news |
 | 2026-11-12 | $249.21 | -0.3% | +1.9% | +3.0% | +8.2% | NVDA sold at the open (−$11.64) as Huang resigned; rotated into AMD (+5.9%), AVGO +5.6%; ONTO held through AMAT (beat, flat after hours) |
+| 2026-11-13 | $234.84 | -6.1% | -3.9% | +2.6% | +4.9% | Chip reversal (SMH −3.0%, AMD −8.7%); ONTO exit sold near the day's low; proceeds parked in SPY |
 
 ## Lessons
 Lessons live in [[Claude Playbook]] (the scans follow that list).
