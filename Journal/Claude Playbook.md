@@ -23,6 +23,7 @@ Benchmarks start from the 2026-11-06 closes: SPY $735.29, SMH $463.96.
 - **Order cap:** no single order larger than 50% of the account.
 - **Headline risk:** a position with open company-specific risk stays at or below 15% of the account.
 - Every position has a written exit level in the log, and it gets acted on.
+- **Idle cash:** when no setup qualifies, park cash in SPY (the benchmark) instead of leaving it idle, and sell SPY to fund the next qualified trade. *(Set 11-13.)*
 
 ## Lessons
 Any scan adds a lesson whenever something deserves one: a winning or losing trade, a trade skipped that should have been taken (or the reverse), a rule that helped or failed, or a market surprise. Each lesson is one line, with the date and the trade or event behind it. Mention a new lesson in that scan's report. Update an old lesson instead of adding a duplicate, and mark one *retired* if later evidence shows it was wrong. The user likes this section, so keep it honest and specific.
@@ -64,6 +65,6 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 ## Watchlist
 _Updated by the 4:50 PM scan: 2-4 names with the reason._
 - **AMD** (held, full position): $68.36 at an average $571.37 after both halves on 11-12. Exit below $514.
-- **CBRS** (Cerebras): AI-inference chip rival to NVDA. Q3 revenue beat, FY guide raised to $940-960M vs $887M expected, Q4 guide $310-330M vs $275M, new Microsoft deal. +15% after hours ($112.81). Still loss-making, and down ~half since its May IPO. Earnings-drift + rotation candidate: buy in halves only if it holds the gap at 10:15. Would need a trim to fund it (no cash).
-- **CSCO**: beat and raise (Q1 EPS $1.40 vs $1.33; FY27 EPS guide raised to $5.47-5.53; hyperscaler AI revenue seen at $9B). Only about +1% after hours, so a quieter earnings-drift candidate and less chip-heavy than the rest of the account.
+- **CBRS** (Cerebras): failed the 11-13 entry test (held only ~40% of the after-hours gap at the 11:02 scan), then rose to +9.6% by midday on a −4% chip day. New test, set in advance: buy half at Monday's 10:15 scan if it's above $103 and beating SMH on the day; exit below $97.75 (the 11-12 close, i.e. the gap filled). Background: AI-inference chip rival to NVDA. Q3 revenue beat, FY guide raised to $940-960M vs $887M expected, Q4 guide $310-330M vs $275M, new Microsoft deal. +15% after hours ($112.81). Still loss-making, and down ~half since its May IPO. Earnings-drift + rotation candidate: buy in halves only if it holds the gap at 10:15. Would need a trim to fund it (no cash).
+- **CSCO**: fell 5.6% on 11-13 despite the beat; dropped from consideration unless it recovers. Background: beat and raise (Q1 EPS $1.40 vs $1.33; FY27 EPS guide raised to $5.47-5.53; hyperscaler AI revenue seen at $9B). Only about +1% after hours, so a quieter earnings-drift candidate and less chip-heavy than the rest of the account.
 - **PBR**: tops the vault's confluence list (Oversold Bounce + RSI(2) Pullback; energy the only sector up). Hormuz mine strikes keep a premium on oil, but Q3 missed on 11-11. Confluence signals aren't proven yet (pattern rule), so watch only.
