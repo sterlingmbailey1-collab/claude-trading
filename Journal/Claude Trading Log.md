@@ -44,10 +44,30 @@ Benchmarks from the 2026-11-06 closes: SPY $735.29, SMH $463.96. Rules and goals
 | 2026-11-12 | $249.21 | -0.3% | +1.9% | +3.0% | +8.2% | NVDA sold at the open (−$11.64) as Huang resigned; rotated into AMD (+5.9%), AVGO +5.6%; ONTO held through AMAT (beat, flat after hours) |
 
 ## Lessons
-Added 2026-11-11 after the Nvidia trade. The scans follow these.
-1. Don't buy into an unresolved company crisis (open board or legal investigation, CEO's job in question). A quiet day is not resolution.
-2. Trade with relative strength: when money rotates from a stock to its rivals, buy the rivals.
-3. Never loosen an entry rule just to get cash invested.
-4. After a 4%+ jump, buy in two halves at separate scans.
-5. Fractional shares can't use stop orders or be sold after hours: keep headline-risk positions to 15% of the account or less.
-6. Give every position an exit level and act on it.
+Lessons live in [[Claude Playbook]] (the scans follow that list).
+
+## Weekly review: 2026-11-09 to 11-13
+**Result:** account $234.84 at the close, −6.1% vs the $250 deposited, **−3.9% time-weighted** since the 11-06 start. SPY +2.6%, SMH +4.9%. Behind SPY by 6.5 points and SMH by 8.8.
+
+**Closed trades:** 1 win, 2 losses.
+| Trade | Tag | Result |
+|---|---|---|
+| SMH (11-06 → 11-09) | [core] → [news rotation] | +$0.47 (+2.3%), best trade |
+| NVDA (11-11 → 11-12) | [dip buy] | −$11.64 (−14.5%), worst trade |
+| ONTO (11-10 → 11-13) | [earnings drift] | −$1.44 (−2.1%) |
+
+Average win +$0.47 (+2.3%) vs average loss −$6.54 (−8.3%): the process goal (bigger winners than losers) failed this week.
+
+**Open at the close:** AVGO +1.0% on average cost (first lot +8.8%, second [momentum] lot −2.3%), AMD −6.5%, QQQ +3.3%, SPY +0.4%.
+
+**What helped**
+- Relative strength: rotating SMH → AVGO on 11-09 caught Broadcom's record week against Nvidia.
+- The 3% risk sizing: ONTO's exit cost only $1.44.
+
+**What hurt**
+- The NVDA dip-buy alone cost $11.64 (about 4.7% of the account), most of the gap to SPY. It broke lesson 1 (unresolved crisis) and lesson 3 (loosened an entry rule to get cash invested).
+- Both exits sold within about 2% of the day's low, and both stocks closed well above the sale price. NVDA sold at $151.00 (closed $166.19), and ONTO sold at $196.92 (closed $203.53). Selling at the lows cost about $9.18 versus selling at the close. Lesson 6 has been updated.
+- AMD: both halves were bought on 11-12 after a ~30% week, then the stock fell 8.7% the next day. Lesson 4 has been updated.
+- About 85% of the account was in chips while SMH beat it: so far, stock picking inside chips has subtracted value. Success test 2 gets its first monthly check around 12-06.
+
+**Next week:** NVDA earnings Tuesday, the Anthropic IPO (no Anthropic stock, by rule), FOMC minutes Wednesday, and CBRS's pre-set Monday test.
