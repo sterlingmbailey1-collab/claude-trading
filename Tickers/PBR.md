@@ -3,17 +3,17 @@ ticker: PBR
 name: "Petrobras"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-12
-scan_days: 2
-last: 18.16
-market_cap: $108.8B
+last_seen: 2026-11-13
+scan_days: 3
+last: 18.4
+market_cap: $111.6B
 tags: [trading/ticker]
 ---
 # PBR
 <!-- auto:start -->
-**Petrobras** · STOCK · Last 18.16 · Mkt cap $108.8B
+**Petrobras** · STOCK · Last 18.4 · Mkt cap $111.6B
 
-Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
+Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 
 ## Latest research (2026-11-12)
 - **Analyst consensus:** Buy (13 buy / 5 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-13]] | [[Oversold Bounce]], [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 18.4 | +0.3% |
 | [[2026-11-12]] | [[Oversold Bounce]], [[Quality Value]], [[RSI(2) Large-Cap Pullback]], [[Wheel Candidates]] | bullish, neutral | 18.16 | +1.9% |
 | [[2026-11-11]] | [[Oversold Bounce]], [[Quality Value]], [[RSI(2) Large-Cap Pullback]], [[Wheel Candidates]] | bullish, neutral | 17.76 | -0.3% |
 <!-- auto:end -->

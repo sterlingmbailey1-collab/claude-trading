@@ -56,3 +56,6 @@ A scheduled task runs these scans every weekday after the close (about 4:30–4:
 
 ## Editing scans
 The Robinhood connector can create and edit scans but not delete them. To delete one, use Legend.
+
+## Weekly reviews
+- [[2026-W46]] (2026-11-11 → 2026-11-13)

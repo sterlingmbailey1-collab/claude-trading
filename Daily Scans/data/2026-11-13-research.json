@@ -1,0 +1,102 @@
+{
+ "HALO": {
+  "Analyst consensus": "Buy (6 buy / 4 hold / 1 sell)",
+  "Price target (avg / high / low)": "$119.89 / $149.00 / $79.00 (+20% vs $100.22)",
+  "Sector": "Health Technology",
+  "P/E": "25.6",
+  "52-week range": "$61.23\u2013134.00",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "off 25% from its 10/30 52-wk high; RSI(2) 1.1"
+ },
+ "NEE": {
+  "Analyst consensus": "Buy (15 buy / 8 hold / 1 sell)",
+  "Price target (avg / high / low)": "$94.59 / $110.00 / $56.00 (+11% vs $85.14)",
+  "Sector": "Utilities",
+  "P/E": "15.4",
+  "52-week range": "$74.41\u201398.75",
+  "Dividend yield": "2.86% (ex-div 11/27)",
+  "Earnings this week": "no",
+  "Note": "utility hit 3 quality filters"
+ },
+ "TSN": {
+  "Analyst consensus": "Hold (7 buy / 8 hold / 1 sell)",
+  "Price target (avg / high / low)": "$63.00 / $75.00 / $56.00 (+7% vs $58.85)",
+  "Sector": "Consumer Non-Durables",
+  "P/E": "35.8",
+  "52-week range": "$49.96\u201369.48",
+  "Dividend yield": "3.44% (ex-div 12/01)",
+  "Earnings this week": "2026-11-16 am",
+  "Note": "reports Mon 11/16 am; ratings last updated March"
+ },
+ "AGI": {
+  "Analyst consensus": "Buy (11 buy / 1 hold / 0 sell)",
+  "Price target (avg / high / low)": "$44.38 / $57.95 / $34.37 (+55% vs $28.61)",
+  "Sector": "Non-Energy Minerals",
+  "P/E": "11.4",
+  "52-week range": "$26.92\u201355.41",
+  "Dividend yield": "0.50%",
+  "Earnings this week": "no",
+  "Note": "within 6% of 52-wk low (10/30); gold fell ~4.5% this week"
+ },
+ "B": {
+  "Analyst consensus": "Buy (13 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$50.57 / $64.55 / $40.34 (+34% vs $37.61)",
+  "Sector": "Non-Energy Minerals",
+  "P/E": "9.6",
+  "52-week range": "$34.03\u201354.69",
+  "Dividend yield": "2.48% (ex-div 11/30)",
+  "Earnings this week": "no",
+  "Note": "gold miner; gold near 13-month low"
+ },
+ "FSLR": {
+  "Analyst consensus": "Buy (30 buy / 9 hold / 1 sell)",
+  "Price target (avg / high / low)": "$255.04 / $328.00 / $161.00 (+49% vs $171.44)",
+  "Sector": "Electronic Technology",
+  "P/E": "10.0",
+  "52-week range": "$165.86\u2013320.95",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "within 4% of 52-wk low (10/26)"
+ },
+ "GMAB": {
+  "Analyst consensus": "Buy (23 buy / 3 hold / 2 sell)",
+  "Price target (avg / high / low)": "$63.33 / $80.00 / $46.42 (+23% vs $51.36)",
+  "Sector": "Health Technology",
+  "P/E": "43.9",
+  "52-week range": "$23.62\u201359.97",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "pulled back from 10/28 52-wk high"
+ },
+ "ICLR": {
+  "Analyst consensus": "Buy (11 buy / 8 hold / 0 sell)",
+  "Price target (avg / high / low)": "$234.50 / $268.00 / $200.00 (+21% vs $194.57)",
+  "Sector": "Commercial Services",
+  "P/E": "34.6",
+  "52-week range": "$66.57\u2013219.04",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "-3.0% on the day; below lowest target"
+ },
+ "MRNA": {
+  "Analyst consensus": "Hold (5 buy / 16 hold / 6 sell)",
+  "Price target (avg / high / low)": "$156.00 / $305.00 / $45.00 (-30% vs $223.23)",
+  "Sector": "Health Technology",
+  "P/E": "negative (-32.6)",
+  "52-week range": "$22.28\u2013280.80",
+  "Dividend yield": "none",
+  "Earnings this week": "no",
+  "Note": "negative P/E; mean target 30% below price; -2.3% after hours"
+ },
+ "O": {
+  "Analyst consensus": "Hold (8 buy / 18 hold / 1 sell)",
+  "Price target (avg / high / low)": "$63.20 / $72.00 / $59.00 (+7% vs $58.83)",
+  "Sector": "Finance (REIT)",
+  "P/E": "40.9",
+  "52-week range": "$53.15\u201367.94",
+  "Dividend yield": "5.48% (monthly)",
+  "Earnings this week": "no",
+  "Note": "REIT; ex-div 10/30, paid 11/13"
+ }
+}

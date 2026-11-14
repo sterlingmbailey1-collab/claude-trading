@@ -3,17 +3,17 @@ ticker: AESI
 name: "Atlas Energy Solutions"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-12
-scan_days: 2
-last: 5.42
-market_cap: $698.9M
+last_seen: 2026-11-13
+scan_days: 3
+last: 5.55
+market_cap: $688.9M
 tags: [trading/ticker]
 ---
 # AESI
 <!-- auto:start -->
-**Atlas Energy Solutions** · STOCK · Last 5.42 · Mkt cap $698.9M
+**Atlas Energy Solutions** · STOCK · Last 5.55 · Mkt cap $688.9M
 
-Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
+Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 
 ## Latest research (2026-11-12)
 - **Analyst consensus:** Buy (8 buy / 6 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-12.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-13]] | [[Oversold Bounce]] | bullish | 5.55 | -0.4% |
 | [[2026-11-12]] | [[Gap Up]], [[Oversold Bounce]] | bullish | 5.42 | -2.9% |
 | [[2026-11-11]] | [[Oversold Bounce]] | bullish | 5.69 | +2.0% |
 <!-- auto:end -->
