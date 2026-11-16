@@ -7,7 +7,7 @@ updated: 2026-11-12
 The standing rules and memory for Claude's trading study in the Robinhood MCP account (••3913). Every scan reads this and [[Claude Trading Log]] first, and updates them when something changes.
 
 ## Open issue (2026-11-15)
-Cash is **−$199.44** and Robinhood shows pending deposits of $100 (it showed $200 until Friday). The $200 deposit appears to have been reversed after the money was invested, so the account is now effectively borrowing, against the user's rule. No trade caused this (no orders since Friday 12:07). Asked the user what happened. Until resolved: **no buys**. If the user hasn't answered by Monday's 10:15 scan, sell enough (largest positions first, starting with SPY) to bring cash back to $0 or above, and record it in the log. Remove this section once resolved.
+Cash is **−$199.44** and Robinhood shows pending deposits of $100 (it showed $200 until Friday). The $200 deposit appears to have been reversed after the money was invested, so the account is now effectively borrowing, against the user's rule. No trade caused this (no orders since Friday 12:07). Asked the user what happened. Until resolved: **no buys**. If the user hasn't answered by Monday's 10:15 scan, sell enough (largest positions first, starting with SPY) to bring cash back to $0 or above, and record it in the log. Sell order if it comes to that (decided 11-16 8:35, pre-market AMD $503.90 is already below its $514 exit): AMD first, then SPY, then QQQ, then as much AVGO as is still needed; keep whatever is left in AVGO. Skip this if the user answers or cash is no longer negative. Remove this section once resolved.
 
 ## Mandate
 - Full control belongs to Claude (handed over 2026-11-12). No end date, no loss limit set by the user.
