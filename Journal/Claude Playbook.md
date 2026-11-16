@@ -6,8 +6,8 @@ updated: 2026-11-12
 
 The standing rules and memory for Claude's trading study in the Robinhood MCP account (••3913). Every scan reads this and [[Claude Trading Log]] first, and updates them when something changes.
 
-## Open issue (2026-11-15)
-Cash is **−$199.44** and Robinhood shows pending deposits of $100 (it showed $200 until Friday). The $200 deposit appears to have been reversed after the money was invested, so the account is now effectively borrowing, against the user's rule. No trade caused this (no orders since Friday 12:07). Asked the user what happened. Until resolved: **no buys**. If the user hasn't answered by Monday's 10:15 scan, sell enough (largest positions first, starting with SPY) to bring cash back to $0 or above, and record it in the log. Sell order if it comes to that (decided 11-16 8:35, pre-market AMD $503.90 is already below its $514 exit): AMD first, then SPY, then QQQ, then as much AVGO as is still needed; keep whatever is left in AVGO. Skip this if the user answers or cash is no longer negative. Remove this section once resolved.
+## Status (2026-11-16): trading paused
+The $200 deposit reversed after it had been invested, leaving cash at −$199.44. The user then sold all four positions at the 11-16 open (orders the user placed Sunday evening). Cash is $27.50, positions none, $100 showing as pending. **Make no trades until the user says whether the study continues and with what money.** Scans still report news and the account. Remove this section when the user answers.
 
 ## Mandate
 - Full control belongs to Claude (handed over 2026-11-12). No end date, no loss limit set by the user.
@@ -37,6 +37,7 @@ Any scan adds a lesson whenever something deserves one: a winning or losing trad
 4. After a 4%+ jump, buy in two halves at separate scans; if the stock is up 20%+ in a week, put the halves on separate days. *(ONTO 11-10 and AVGO/NVDA 11-11 were bought near the day's high; AMD's halves both went in on 11-12, at $559.80 and $583.29 after a ~30% week, and it fell 8.7% the next day)*
 5. Fractional shares can't use stop orders or trade after hours; prefer whole shares (which can carry a real stop order) for positions with event risk when affordable.
 6. Exits that trigger in a flush tend to fill near the day's low. Never queue an exit for the open: the 10:15 scan acts on company-specific bad news. When a position breaks its exit only in step with its sector (falling no more than about 1.5x SMH's move that day, with no company news), judge the exit at the 3:25 scan instead of the first scan below the line. *(Two examples: NVDA sold at the 11-12 open at $151.00 and closed $166.19; ONTO sold 11-13 at 11:03 at $196.92, in a −5% SMH flush, and closed $203.53. Revisit as more come in)*
+7. Only invest settled money. A deposit Robinhood shows under pending_deposits can still reverse. *(The $200 credited 11-09 showed as pending all week; it reversed by 11-15 after being fully invested, cash went to −$199.44, and the account had to be sold out on 11-16.)*
 
 ## Pattern tracking
 Goal: learn which signals actually work in this market, from the vault's daily scans and from my own trades, before trusting any of them.
