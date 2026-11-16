@@ -3,17 +3,17 @@ ticker: TSN
 name: "Tyson Foods"
 type: STOCK
 first_seen: 2026-11-12
-last_seen: 2026-11-13
-scan_days: 2
-last: 58.8
-market_cap: $20.8B
+last_seen: 2026-11-16
+scan_days: 3
+last: 63.95
+market_cap: $20.7B
 tags: [trading/ticker]
 ---
 # TSN
 <!-- auto:start -->
-**Tyson Foods** · STOCK · Last 58.8 · Mkt cap $20.8B
+**Tyson Foods** · STOCK · Last 63.95 · Mkt cap $20.7B
 
-Hit scans on 2 day(s), first 2026-11-12, latest 2026-11-13.
+Hit scans on 3 day(s), first 2026-11-12, latest 2026-11-16.
 
 ## Latest research (2026-11-13)
 - **Analyst consensus:** Hold (7 buy / 8 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 2 day(s), first 2026-11-12, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Earnings This Week]], [[RSI(2) Large-Cap Pullback]], [[Strong Uptrend]], [[Unusual Options Activity]] | bullish, event, neutral | 63.95 | +8.7% |
 | [[2026-11-13]] | [[Earnings This Week]], [[RSI(2) Large-Cap Pullback]], [[Strong Uptrend]], [[Unusual Options Activity]], [[Wheel Candidates]] | bullish, event, neutral | 58.8 | -0.0% |
 | [[2026-11-12]] | [[Earnings This Week]] | event | 59.26 | -1.0% |
 <!-- auto:end -->

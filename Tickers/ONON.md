@@ -3,17 +3,17 @@ ticker: ONON
 name: "On Holding"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 33.64
-market_cap: $11.1B
+last_seen: 2026-11-16
+scan_days: 4
+last: 32.477
+market_cap: $11.3B
 tags: [trading/ticker]
 ---
 # ONON
 <!-- auto:start -->
-**On Holding** · STOCK · Last 33.64 · Mkt cap $11.1B
+**On Holding** · STOCK · Last 32.477 · Mkt cap $11.3B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-12)
 - **Analyst consensus:** Buy (28 buy / 5 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Wheel Candidates]] | neutral | 32.477 | -3.4% |
 | [[2026-11-13]] | [[Weekly Trend Leaders]], [[Wheel Candidates]] | bullish, neutral | 33.64 | +0.0% |
 | [[2026-11-12]] | [[RSI(2) Large-Cap Pullback]], [[Weekly Trend Leaders]], [[Wheel Candidates]] | bullish, neutral | 33.16 | -4.5% |
 | [[2026-11-11]] | [[RSI(2) Large-Cap Pullback]], [[Strong Uptrend]], [[Weekly Trend Leaders]], [[Wheel Candidates]] | bullish, neutral | 34.69 | -0.1% |

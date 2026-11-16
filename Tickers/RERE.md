@@ -3,21 +3,22 @@ ticker: RERE
 name: "ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 4.06
-market_cap: $855.0M
+last_seen: 2026-11-16
+scan_days: 4
+last: 4.04
+market_cap: $899.3M
 tags: [trading/ticker]
 ---
 # RERE
 <!-- auto:start -->
-**ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)** · STOCK · Last 4.06 · Mkt cap $855.0M
+**ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)** · STOCK · Last 4.04 · Mkt cap $899.3M
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Earnings This Week]] | event | 4.04 | -0.5% |
 | [[2026-11-13]] | [[Earnings This Week]] | event | 4.06 | +0.0% |
 | [[2026-11-12]] | [[Earnings This Week]] | event | 3.86 | -7.7% |
 | [[2026-11-11]] | [[Earnings This Week]] | event | 4.18 | +0.0% |

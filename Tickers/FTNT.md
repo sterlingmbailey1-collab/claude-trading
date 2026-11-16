@@ -3,17 +3,17 @@ ticker: FTNT
 name: "Fortinet"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 128.44
-market_cap: $95.2B
+last_seen: 2026-11-16
+scan_days: 4
+last: 123.27
+market_cap: $93.5B
 tags: [trading/ticker]
 ---
 # FTNT
 <!-- auto:start -->
-**Fortinet** · STOCK · Last 128.44 · Mkt cap $95.2B
+**Fortinet** · STOCK · Last 123.27 · Mkt cap $93.5B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Hold (9 buy / 32 hold / 6 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[High IV Premium]], [[High-Margin Leaders]] | bullish, neutral | 123.27 | -3.1% |
 | [[2026-11-13]] | [[High IV Premium]], [[High-Margin Leaders]] | bullish, neutral | 128.44 | +1.0% |
 | [[2026-11-12]] | [[High IV Premium]], [[High-Margin Leaders]] | bullish, neutral | 129.54 | +1.1% |
 | [[2026-11-11]] | [[High IV Premium]], [[High-Margin Leaders]], [[Oversold Bounce]] | bullish, neutral | 127.87 | -0.2% |

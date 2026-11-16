@@ -3,21 +3,22 @@ ticker: VFC
 name: "VF"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 20.3
-market_cap: $7.9B
+last_seen: 2026-11-16
+scan_days: 4
+last: 20.15
+market_cap: $8.1B
 tags: [trading/ticker]
 ---
 # VFC
 <!-- auto:start -->
-**VF** · STOCK · Last 20.3 · Mkt cap $7.9B
+**VF** · STOCK · Last 20.15 · Mkt cap $8.1B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Wheel Candidates]] | neutral | 20.15 | -2.6% |
 | [[2026-11-13]] | [[Wheel Candidates]] | neutral | 20.3 | -1.8% |
 | [[2026-11-12]] | [[Overbought Fade]], [[Wheel Candidates]] | bearish, neutral | 20.04 | -2.9% |
 | [[2026-11-11]] | [[Overbought Fade]], [[Wheel Candidates]] | bearish, neutral | 20.5 | -0.7% |

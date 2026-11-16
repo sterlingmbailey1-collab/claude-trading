@@ -1,0 +1,102 @@
+{
+ "HALO": {
+  "Analyst consensus": "Buy (6 buy / 4 hold / 1 sell)",
+  "Price target (avg / high / low)": "$119.89 / $149.00 / $79.00 (+24% vs $96.56)",
+  "Sector": "Health Technology / Biotechnology",
+  "P/E": "25.5",
+  "52-week range": "$61.23 \u2013 $134.00",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "RSI(2) 1.1; 28% below its 10/30 52-week high"
+ },
+ "SMMT": {
+  "Analyst consensus": "Buy (12 buy / 6 hold / 0 sell)",
+  "Price target (avg / high / low)": "$29.71 / $43.00 / $11.90 (+151% vs $11.82)",
+  "Sector": "Health Technology / Biotechnology",
+  "P/E": "-13.2 (negative)",
+  "52-week range": "$11.53 \u2013 $29.23",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "New 52-week low today (-16.4%); negative P/E; also hit Breakdown on Volume (mixed lean)"
+ },
+ "AGI": {
+  "Analyst consensus": "Buy (11 buy / 1 hold / 0 sell)",
+  "Price target (avg / high / low)": "$44.26 / $57.95 / $34.37 (+59% vs $27.90)",
+  "Sector": "Non-Energy Minerals / Precious Metals",
+  "P/E": "11.3",
+  "52-week range": "$26.92 \u2013 $55.41",
+  "Dividend yield": "0.51%",
+  "Earnings this week": "no",
+  "Note": "~4% above its 10/30 52-week low; gold miners sold off with metals"
+ },
+ "GMAB": {
+  "Analyst consensus": "Buy (21 buy / 3 hold / 2 sell)",
+  "Price target (avg / high / low)": "$64.50 / $80.00 / $47.71 (+25% vs $51.57)",
+  "Sector": "Health Technology / Biotechnology",
+  "P/E": "43.6",
+  "52-week range": "$23.62 \u2013 $59.97",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Up slightly on the day while biotech peers fell"
+ },
+ "NEE": {
+  "Analyst consensus": "Buy (15 buy / 8 hold / 1 sell)",
+  "Price target (avg / high / low)": "$94.59 / $110.00 / $56.00 (+11% vs $85.36)",
+  "Sector": "Utilities / Electric Utilities",
+  "P/E": "15.3",
+  "52-week range": "$74.41 \u2013 $98.75",
+  "Dividend yield": "2.86%",
+  "Earnings this week": "no",
+  "Note": "Ex-dividend 2026-11-27 (outside 7 days)"
+ },
+ "B": {
+  "Analyst consensus": "Buy (13 buy / 5 hold / 1 sell)",
+  "Price target (avg / high / low)": "$50.01 / $58.50 / $40.34 (+37% vs $36.49)",
+  "Sector": "Non-Energy Minerals / Precious Metals",
+  "P/E": "9.6",
+  "52-week range": "$34.03 \u2013 $54.69",
+  "Dividend yield": "2.50%",
+  "Earnings this week": "no",
+  "Note": "Ex-dividend 2026-11-30; ~7% above its July 52-week low"
+ },
+ "CPNG": {
+  "Analyst consensus": "Buy (16 buy / 2 hold / 1 sell)",
+  "Price target (avg / high / low)": "$22.78 / $32.00 / $11.00 (+58% vs $14.38)",
+  "Sector": "Retail Trade / Internet Retail",
+  "P/E": "-20.1 (negative)",
+  "52-week range": "$13.35 \u2013 $28.54",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Negative P/E; ~8% above its October 52-week low"
+ },
+ "FSLR": {
+  "Analyst consensus": "Buy (29 buy / 9 hold / 1 sell)",
+  "Price target (avg / high / low)": "$253.14 / $328.00 / $161.00 (+56% vs $162.49)",
+  "Sector": "Electronic Technology / Semiconductors",
+  "P/E": "9.9",
+  "52-week range": "$162.19 \u2013 $320.95",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "New 52-week low today; trades just above the lowest analyst target ($161)"
+ },
+ "ICLR": {
+  "Analyst consensus": "Buy (10 buy / 8 hold / 0 sell)",
+  "Price target (avg / high / low)": "$234.50 / $268.00 / $200.00 (+23% vs $191.29)",
+  "Sector": "Commercial Services",
+  "P/E": "33.5",
+  "52-week range": "$66.57 \u2013 $219.04",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Below the lowest analyst target ($200)"
+ },
+ "MRNA": {
+  "Analyst consensus": "Hold (5 buy / 16 hold / 6 sell)",
+  "Price target (avg / high / low)": "$156.00 / $305.00 / $45.00 (-28% vs $215.49)",
+  "Sector": "Health Technology / Biotechnology",
+  "P/E": "-31.5 (negative)",
+  "52-week range": "$22.28 \u2013 $280.80",
+  "Dividend yield": "n/a",
+  "Earnings this week": "no",
+  "Note": "Negative P/E; 23% below its 11/09 52-week high; trades above the mean target"
+ }
+}

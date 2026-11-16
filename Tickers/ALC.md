@@ -3,17 +3,17 @@ ticker: ALC
 name: "Alcon"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 74.12
-market_cap: $34.7B
+last_seen: 2026-11-16
+scan_days: 4
+last: 73.64
+market_cap: $35.3B
 tags: [trading/ticker]
 ---
 # ALC
 <!-- auto:start -->
-**Alcon** · STOCK · Last 74.12 · Mkt cap $34.7B
+**Alcon** · STOCK · Last 73.64 · Mkt cap $35.3B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (16 buy / 7 hold / 1 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Strong Uptrend]] | bullish | 73.64 | -0.6% |
 | [[2026-11-13]] | [[Strong Uptrend]] | bullish | 74.12 | +0.0% |
 | [[2026-11-12]] | [[RSI(2) Large-Cap Pullback]], [[Strong Uptrend]] | bullish | 71.83 | -0.9% |
 | [[2026-11-11]] | [[RSI(2) Large-Cap Pullback]], [[Strong Uptrend]] | bullish | 72.4 | -0.1% |

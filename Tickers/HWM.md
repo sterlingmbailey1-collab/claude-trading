@@ -3,21 +3,22 @@ ticker: HWM
 name: "Howmet Aerospace"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 218.5
-market_cap: $88.7B
+last_seen: 2026-11-16
+scan_days: 4
+last: 212.85
+market_cap: $87.8B
 tags: [trading/ticker]
 ---
 # HWM
 <!-- auto:start -->
-**Howmet Aerospace** · STOCK · Last 218.5 · Mkt cap $88.7B
+**Howmet Aerospace** · STOCK · Last 212.85 · Mkt cap $87.8B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Strong Uptrend]] | bullish | 212.85 | -3.6% |
 | [[2026-11-13]] | [[Strong Uptrend]] | bullish | 218.5 | -1.1% |
 | [[2026-11-12]] | [[Strong Uptrend]] | bullish | 223.11 | -0.4% |
 | [[2026-11-11]] | [[Strong Uptrend]] | bullish | 224 | +0.0% |

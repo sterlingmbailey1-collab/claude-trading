@@ -3,21 +3,22 @@ ticker: CHWY
 name: "Chewy"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 22.49
+last_seen: 2026-11-16
+scan_days: 4
+last: 21.51
 market_cap: $9.1B
 tags: [trading/ticker]
 ---
 # CHWY
 <!-- auto:start -->
-**Chewy** · STOCK · Last 22.49 · Mkt cap $9.1B
+**Chewy** · STOCK · Last 21.51 · Mkt cap $9.1B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Wheel Candidates]] | neutral | 21.51 | -4.5% |
 | [[2026-11-13]] | [[Wheel Candidates]] | neutral | 22.49 | -0.1% |
 | [[2026-11-12]] | [[Wheel Candidates]] | neutral | 22.649 | -2.2% |
 | [[2026-11-11]] | [[Wheel Candidates]] | neutral | 23.08 | -0.3% |

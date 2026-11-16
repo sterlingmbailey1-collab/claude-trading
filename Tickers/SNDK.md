@@ -3,17 +3,17 @@ ticker: SNDK
 name: "Sandisk Corporation"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 865.23
-market_cap: $133.4B
+last_seen: 2026-11-16
+scan_days: 4
+last: 813
+market_cap: $125.9B
 tags: [trading/ticker]
 ---
 # SNDK
 <!-- auto:start -->
-**Sandisk Corporation** · STOCK · Last 865.23 · Mkt cap $133.4B
+**Sandisk Corporation** · STOCK · Last 813 · Mkt cap $125.9B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (28 buy / 6 hold / 0 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[High IV Premium]], [[High-Margin Leaders]], [[Quality Value]] | bullish, neutral | 813 | -8.1% |
 | [[2026-11-13]] | [[High IV Premium]], [[High-Margin Leaders]], [[Quality Value]] | bullish, neutral | 865.23 | -2.2% |
 | [[2026-11-12]] | [[High IV Premium]], [[High-Margin Leaders]], [[Quality Value]] | bullish, neutral | 943.3612 | -3.5% |
 | [[2026-11-11]] | [[High IV Premium]], [[High-Margin Leaders]], [[Oversold Bounce]], [[Quality Value]] | bullish, neutral | 965.77 | -1.2% |

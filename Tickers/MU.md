@@ -3,17 +3,17 @@ ticker: MU
 name: "Micron Technology"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 761.2
-market_cap: $903.4B
+last_seen: 2026-11-16
+scan_days: 4
+last: 721.98
+market_cap: $880.6B
 tags: [trading/ticker]
 ---
 # MU
 <!-- auto:start -->
-**Micron Technology** · STOCK · Last 761.2 · Mkt cap $903.4B
+**Micron Technology** · STOCK · Last 721.98 · Mkt cap $880.6B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (52 buy / 3 hold / 0 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Heavy Call Buying]], [[Heavy Put Buying]], [[High-Margin Leaders]], [[Quality Value]] | bearish, bullish | 721.98 | -7.2% |
 | [[2026-11-13]] | [[Heavy Call Buying]], [[Heavy Put Buying]], [[High-Margin Leaders]], [[Quality Value]] | bearish, bullish | 761.2 | -2.2% |
 | [[2026-11-12]] | [[High-Margin Leaders]], [[Quality Value]] | bullish | 803.22 | -1.0% |
 | [[2026-11-11]] | [[Heavy Call Buying]], [[Heavy Put Buying]], [[High-Margin Leaders]], [[Quality Value]] | bearish, bullish | 797.01 | -1.8% |

@@ -3,17 +3,17 @@ ticker: AWK
 name: "American Water"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 149.6
-market_cap: $29.4B
+last_seen: 2026-11-16
+scan_days: 4
+last: 151.36
+market_cap: $29.8B
 tags: [trading/ticker]
 ---
 # AWK
 <!-- auto:start -->
-**American Water** · STOCK · Last 149.6 · Mkt cap $29.4B
+**American Water** · STOCK · Last 151.36 · Mkt cap $29.8B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Hold (2 buy / 11 hold / 3 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[High-Margin Leaders]], [[Strong Uptrend]] | bullish | 151.36 | +1.2% |
 | [[2026-11-13]] | [[High-Margin Leaders]], [[Strong Uptrend]] | bullish | 149.6 | +0.0% |
 | [[2026-11-12]] | [[High-Margin Leaders]], [[Strong Uptrend]] | bullish | 147.58 | -1.4% |
 | [[2026-11-11]] | [[Heavy Call Buying]], [[High-Margin Leaders]], [[Strong Uptrend]], [[Unusual Options Activity]] | bullish, neutral | 150.04 | +0.3% |

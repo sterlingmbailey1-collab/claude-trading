@@ -3,21 +3,22 @@ ticker: DXCM
 name: "DexCom"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 83.31
-market_cap: $30.4B
+last_seen: 2026-11-16
+scan_days: 4
+last: 81.6
+market_cap: $31.1B
 tags: [trading/ticker]
 ---
 # DXCM
 <!-- auto:start -->
-**DexCom** · STOCK · Last 83.31 · Mkt cap $30.4B
+**DexCom** · STOCK · Last 81.6 · Mkt cap $31.1B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[High-Margin Leaders]] | bullish | 81.6 | -2.1% |
 | [[2026-11-13]] | [[High-Margin Leaders]] | bullish | 83.31 | -0.0% |
 | [[2026-11-12]] | [[High-Margin Leaders]] | bullish | 81.39 | +1.3% |
 | [[2026-11-11]] | [[High-Margin Leaders]] | bullish | 80.44 | +0.1% |

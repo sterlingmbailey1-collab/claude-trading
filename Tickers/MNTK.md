@@ -3,21 +3,22 @@ ticker: MNTK
 name: "Montauk Renewables"
 type: STOCK
 first_seen: 2026-11-13
-last_seen: 2026-11-13
-scan_days: 1
-last: 0.9401
-market_cap: $146.6M
+last_seen: 2026-11-16
+scan_days: 2
+last: 1.1815
+market_cap: $135.8M
 tags: [trading/ticker]
 ---
 # MNTK
 <!-- auto:start -->
-**Montauk Renewables** · STOCK · Last 0.9401 · Mkt cap $146.6M
+**Montauk Renewables** · STOCK · Last 1.1815 · Mkt cap $135.8M
 
-Hit scans on 1 day(s), first 2026-11-13, latest 2026-11-13.
+Hit scans on 2 day(s), first 2026-11-13, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Earnings This Week]] | event | 1.1815 | +23.8% |
 | [[2026-11-13]] | [[Earnings This Week]] | event | 0.9401 | -1.5% |
 <!-- auto:end -->
 ## My notes

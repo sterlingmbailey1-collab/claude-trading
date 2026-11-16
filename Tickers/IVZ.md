@@ -3,21 +3,22 @@ ticker: IVZ
 name: "Invesco"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-11
-scan_days: 1
-last: 28.77
+last_seen: 2026-11-16
+scan_days: 2
+last: 28.56
 market_cap: $12.7B
 tags: [trading/ticker]
 ---
 # IVZ
 <!-- auto:start -->
-**Invesco** · STOCK · Last 28.77 · Mkt cap $12.7B
+**Invesco** · STOCK · Last 28.56 · Mkt cap $12.7B
 
-Hit scans on 1 day(s), first 2026-11-11, latest 2026-11-11.
+Hit scans on 2 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Strong Uptrend]] | bullish | 28.56 | -1.2% |
 | [[2026-11-11]] | [[Strong Uptrend]] | bullish | 28.77 | +0.5% |
 <!-- auto:end -->
 ## My notes

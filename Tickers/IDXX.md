@@ -3,21 +3,22 @@ ticker: IDXX
 name: "IDEXX Laboratories"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 704.23
-market_cap: $55.0B
+last_seen: 2026-11-16
+scan_days: 4
+last: 700.65
+market_cap: $55.5B
 tags: [trading/ticker]
 ---
 # IDXX
 <!-- auto:start -->
-**IDEXX Laboratories** · STOCK · Last 704.23 · Mkt cap $55.0B
+**IDEXX Laboratories** · STOCK · Last 700.65 · Mkt cap $55.5B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[High-Margin Leaders]] | bullish | 700.65 | -0.5% |
 | [[2026-11-13]] | [[High-Margin Leaders]] | bullish | 704.23 | +0.0% |
 | [[2026-11-12]] | [[High-Margin Leaders]] | bullish | 698.02 | -0.7% |
 | [[2026-11-11]] | [[High-Margin Leaders]] | bullish | 703.05 | +0.1% |

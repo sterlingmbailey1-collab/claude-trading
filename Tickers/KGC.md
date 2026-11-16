@@ -3,17 +3,17 @@ ticker: KGC
 name: "Kinross Gold"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 20.74
-market_cap: $24.4B
+last_seen: 2026-11-16
+scan_days: 4
+last: 19.97
+market_cap: $24.5B
 tags: [trading/ticker]
 ---
 # KGC
 <!-- auto:start -->
-**Kinross Gold** · STOCK · Last 20.74 · Mkt cap $24.4B
+**Kinross Gold** · STOCK · Last 19.97 · Mkt cap $24.5B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Latest research (2026-11-11)
 - **Analyst consensus:** Buy (15 buy / 2 hold / 2 sell)
@@ -28,6 +28,7 @@ Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 19.97 | -3.8% |
 | [[2026-11-13]] | [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 20.74 | -0.1% |
 | [[2026-11-12]] | [[Quality Value]], [[Wheel Candidates]] | bullish, neutral | 20.71 | -3.5% |
 | [[2026-11-11]] | [[Heavy Call Buying]], [[Quality Value]], [[Unusual Options Activity]], [[Wheel Candidates]] | bullish, neutral | 21.43 | -0.2% |

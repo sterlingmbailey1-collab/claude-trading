@@ -3,21 +3,22 @@ ticker: RPRX
 name: "Royalty Pharma"
 type: STOCK
 first_seen: 2026-11-11
-last_seen: 2026-11-13
-scan_days: 3
-last: 69
-market_cap: $30.7B
+last_seen: 2026-11-16
+scan_days: 4
+last: 68.19
+market_cap: $30.9B
 tags: [trading/ticker]
 ---
 # RPRX
 <!-- auto:start -->
-**Royalty Pharma** · STOCK · Last 69 · Mkt cap $30.7B
+**Royalty Pharma** · STOCK · Last 68.19 · Mkt cap $30.9B
 
-Hit scans on 3 day(s), first 2026-11-11, latest 2026-11-13.
+Hit scans on 4 day(s), first 2026-11-11, latest 2026-11-16.
 
 ## Scan history
 | Date | Scans | Bias | Last | % Chg |
 |---|---|---|---|---|
+| [[2026-11-16]] | [[Weekly Trend Leaders]] | bullish | 68.19 | -1.6% |
 | [[2026-11-13]] | [[Weekly Trend Leaders]] | bullish | 69 | -0.4% |
 | [[2026-11-12]] | [[Overbought Fade]], [[Weekly Trend Leaders]] | bearish, bullish | 68.83 | -1.7% |
 | [[2026-11-11]] | [[Overbought Fade]], [[Weekly Trend Leaders]] | bearish, bullish | 69.8 | -0.3% |
