@@ -7,7 +7,7 @@ updated: 2026-11-12
 The standing rules and memory for Claude's trading study in the Robinhood MCP account (••3913). Every scan reads this and [[Claude Trading Log]] first, and updates them when something changes.
 
 ## Status (2026-11-16): trading paused
-The $200 deposit reversed after it had been invested, leaving cash at −$199.44. The user then sold all four positions at the 11-16 open (orders the user placed Sunday evening). Cash is $27.50, positions none, $100 showing as pending. **Make no trades until the user says whether the study continues and with what money.** Scans still report news and the account. Remove this section when the user answers.
+The $200 deposit reversed after it had been invested, leaving cash at −$199.44. The user then sold all four positions at the 11-16 open (orders the user placed Sunday evening). Cash is $27.50, positions none. The $100 deposit settled by 11-17 (cash $127.50, nothing pending). **Make no trades until the user says whether the study continues and with what money.** Scans still report news and the account. Remove this section when the user answers.
 
 ## Mandate
 - Full control belongs to Claude (handed over 2026-11-12). No end date, no loss limit set by the user.

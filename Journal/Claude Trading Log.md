@@ -7,7 +7,7 @@ started: 2026-11-07
 
 Claude's live trading study in the MCP account: cash only (no borrowing), aggressive by request, five scans a day (8:35 AM, 10:15 AM, 12:05 PM, 3:25 PM, 4:50 PM ET). Updated by the scans.
 
-**Deposits:** $50 (in place at the start, 2026-11-07) + $200 (credited 2026-11-09, still pending at the bank, reversed by 11-15) = **$50 settled**; $100 more showing as pending on 11-16
+**Deposits:** $50 (in place at the start, 2026-11-07) + $200 (credited 2026-11-09, still pending at the bank, reversed by 11-15) + $100 (settled 11-17) = **$150 settled**
 
 ## Open positions
 None. On 2026-11-16 the user sold all four positions at the open, placing the orders themselves on Sunday evening, after the $200 deposit reversal left cash at −$199.44. Cash is $27.50. Trading is paused until the user says whether and how the study continues.
