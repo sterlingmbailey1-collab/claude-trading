@@ -56,7 +56,7 @@ Five scans each weekday (ET): 8:35 AM pre-market · 10:15 AM after the open · 1
 | Date | Event | Why it matters |
 |---|---|---|
 | 2026-11-16 | Baidu earnings | China AI read-through |
-| 2026-11-17 pm | NVDA earnings (first under interim CEO Kress) | Moves every AI-chip holding; extra check at 6:15 PM |
+| 2026-11-17 pm | NVDA earnings: **beat** (EPS $2.68 vs ~$2.47, revenue $115.84B vs ~$108.7B), strong guidance; board reportedly rules out Huang's return | After hours: NVDA +5%, AMD +5%, AVGO +3.4%, TSM +7%, SMH +4.4%. The account was empty, so nothing to act on |
 | 2026-11-18 | FOMC minutes; PANW earnings | Markets price ~50 bp of hikes over the next two meetings; 10-year at 5.15% |
 | ~2026-11-18/19 | Anthropic IPO prices (~Wed) and starts trading (~Thu): $64B raise, ~6x oversubscribed | Not tradable here (no Anthropic stock). AMD and AVGO are in the $26B side placement; the raise could pull money from AI stocks |
 | 2026-11-20 | Walmart earnings | Consumer read |
