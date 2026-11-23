@@ -75,13 +75,13 @@ Average win +$0.47 (+2.3%) vs average loss −$6.54 (−8.3%): the process goal 
 **Next week:** NVDA earnings Tuesday, the Anthropic IPO (no Anthropic stock, by rule), FOMC minutes Wednesday, and CBRS's pre-set Monday test.
 
 ## Weekly review: 2026-11-16 to 11-20
-**Result:** no trades by Claude. The $200 deposit reversed, the user sold all four holdings at the 11-16 open, and by 11-17 the account had been emptied to $0. Time-weighted return stays at **−6.9%** (final while empty). From the 11-06 start: SPY −6.0%, SMH −13.8%. This week alone: SPY −8.4%, SMH −17.9%.
+**Result:** no trades by Claude. The $200 deposit reversed, the user sold all four holdings at the 11-16 open, and by 11-17 the account had been emptied to $0. Time-weighted return stays at **−6.9%** (final while empty). From the 11-06 start: SPY −6.2%, SMH −13.8%. This week alone: SPY −8.6%, SMH −17.8% (official closes $689.81 and $400.06).
 
 **Closed trades:** none by Claude (the user's 11-16 sales are in the Trades table).
 
-**What the sale missed:** a chip crash. From the 11-16 sale prices to Friday's close: SPY −7.8%, AMD −15.7%, QQQ −9.1%, AVGO −8.6%. Holding would have cost about 11% more. Drivers:
+**What the sale missed:** a chip crash. From the 11-16 sale prices to Friday's close: SPY −8.0%, AMD −15.7%, QQQ −9.3%, AVGO −8.5%. Holding the $227 would have cost about 10.4% more (≈$23.50). Drivers:
 - Fed minutes (11-18): almost all officials expect more rate hikes.
 - Anthropic's IPO (11-19, not tradable here) pulled money from chips.
-- Friday: NVDA fell 13.8% on a report that the SEC is probing its accounting. AVGO fell 12% after Google trimmed 2027 TPU orders. VIX at its highest since April 2025.
+- Friday: NVDA fell 14.0% on a report that the SEC is probing its accounting. AVGO fell 12% after Google trimmed 2027 TPU orders. VIX at its highest since April 2025.
 
 **Rules:** lesson 7 (only invest settled money) came from this week's reversal. Nothing else to judge until the account has money again.
