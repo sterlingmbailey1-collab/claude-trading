@@ -85,3 +85,16 @@ Average win +$0.47 (+2.3%) vs average loss −$6.54 (−8.3%): the process goal 
 - Friday: NVDA fell 14.0% on a report that the SEC is probing its accounting. AVGO fell 12% after Google trimmed 2027 TPU orders. VIX at its highest since April 2025.
 
 **Rules:** lesson 7 (only invest settled money) came from this week's reversal. Nothing else to judge until the account has money again.
+
+## Weekly review: 2026-11-23 to 11-27
+**Result:** no trades, and the account was $0 all week. Time-weighted return stays at **−6.9%**. From the 11-06 start: SPY −0.9%, SMH −5.2%. This week alone: SPY +5.6%, SMH +9.9%. These are 1:00 PM last trades from Friday's half day; the official closes were not yet posted.
+
+**Closed trades:** none.
+
+**The week:** a wild swing that ended higher.
+- Mon: NVDA rose 31.6% after Nvidia reinstated Jensen Huang as CEO.
+- Tue–Wed: most of that gain reversed. PCE inflation was 3.8%, the hottest in three years. GDP was revised up to 4.3%. Trump announced a new tariff list. A December rate hike is now all but certain.
+- Thu: markets were closed for Thanksgiving.
+- Fri: the holiday session ended on its highs, led by chips (SMH +4.1%). NVDA lagged on a report that Chinese firms installed its Blackwell chips.
+
+**Rules:** nothing to judge with no money. Next week: Huang's Senate testimony (12-03) and the run-up to the FOMC decision (12-08/09).
